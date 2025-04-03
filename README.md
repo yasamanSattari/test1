@@ -1,2 +1,9 @@
-# test1
-we test it
+title: Test1
+emoji: 🏢
+colorFrom: gray
+colorTo: pink
+sdk: streamlit
+sdk_version: 1.44.1
+app_file: app.py
+pinned: false
+license: openrail
